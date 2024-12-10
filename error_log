@@ -1,0 +1,10 @@
+[01-Dec-2024 17:16:28 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/datsch59/projetos.datsch.com.br/portal/login.php on line 3
+[01-Dec-2024 17:16:40 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/datsch59/projetos.datsch.com.br/portal/login.php on line 3
+[01-Dec-2024 17:16:40 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/datsch59/projetos.datsch.com.br/portal/login.php:1) in /home3/datsch59/projetos.datsch.com.br/portal/login.php on line 25
+[01-Dec-2024 17:18:35 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/datsch59/projetos.datsch.com.br/portal/login.php on line 3
+[01-Dec-2024 17:20:13 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/datsch59/projetos.datsch.com.br/portal/login.php on line 3
+[01-Dec-2024 17:20:50 America/Fortaleza] PHP Parse error:  Unclosed '{' on line 6 does not match ')' in /home3/datsch59/projetos.datsch.com.br/portal/login.php on line 16
+[01-Dec-2024 17:21:29 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/datsch59/projetos.datsch.com.br/portal/login.php on line 3
+[01-Dec-2024 17:21:38 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/datsch59/projetos.datsch.com.br/portal/login.php on line 3
+[01-Dec-2024 17:21:38 America/Fortaleza] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/datsch59/projetos.datsch.com.br/portal/login.php:1) in /home3/datsch59/projetos.datsch.com.br/portal/login.php on line 25
+[01-Dec-2024 17:21:54 America/Fortaleza] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/datsch59/projetos.datsch.com.br/portal/login.php on line 3
